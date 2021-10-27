@@ -1,0 +1,232 @@
+﻿10/28/2021 00:17:37.707: [ Module ]  ( 00007FF67A2F0000h + 87265280 )                                                         F:\DBME2007\chars\Gotenks-SSJ\NieR Replicant ver.1.22474487139\NieR Replicant ver.1.22474487139.exe
+10/28/2021 00:17:37.708: [File Ver]    NieR Replicant ver.1.22474487139...  1.0.3.0
+
+10/28/2021 00:17:37.710: [ Module ]  ( 00007FFEEBDE0000h + 01970176 )                                                         C:\Windows\SYSTEM32\ntdll.dll
+10/28/2021 00:17:37.711: [File Ver]    NT Layer DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.713: [ Module ]  ( 00007FFEEB0B0000h + 00729088 )                                                         C:\Windows\System32\KERNEL32.DLL
+10/28/2021 00:17:37.714: [File Ver]    Windows NT BASE API Client DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.716: [ Module ]  ( 00007FFEE8EA0000h + 02568192 )                                                         C:\Windows\System32\KERNELBASE.dll
+10/28/2021 00:17:37.717: [File Ver]    Windows NT BASE API Client DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.719: [ Module ]  ( 00007FFEE6480000h + 00569344 )                                                         C:\Windows\SYSTEM32\apphelp.dll
+10/28/2021 00:17:37.721: [File Ver]    Application Compatibility Client Library  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.724: [ Module ]  ( 00007FFEC39D0000h + 04780032 )                                                         C:\Windows\SYSTEM32\AcLayers.DLL
+10/28/2021 00:17:37.724: [File Ver]    Windows Compatibility DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.725: [ Module ]  ( 00007FFEEAA10000h + 00647168 )                                                         C:\Windows\System32\msvcrt.dll
+10/28/2021 00:17:37.726: [File Ver]    Windows NT CRT DLL  7.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.727: [ Module ]  ( 00007FFEEB570000h + 01638400 )                                                         C:\Windows\System32\USER32.dll
+10/28/2021 00:17:37.727: [File Ver]    Multi-User Windows USER API Client DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.729: [ Module ]  ( 00007FFEE8E80000h + 00131072 )                                                         C:\Windows\System32\win32u.dll
+10/28/2021 00:17:37.729: [File Ver]    Win32u  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.731: [ Module ]  ( 00007FFEEB9E0000h + 00163840 )                                                         C:\Windows\System32\GDI32.dll
+10/28/2021 00:17:37.731: [File Ver]    GDI Client DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.732: [ Module ]  ( 00007FFEE88C0000h + 01646592 )                                                         C:\Windows\System32\gdi32full.dll
+10/28/2021 00:17:37.733: [File Ver]    GDI Client DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.734: [ Module ]  ( 00007FFEE8AE0000h + 00651264 )                                                         C:\Windows\System32\msvcp_win.dll
+10/28/2021 00:17:37.734: [File Ver]    Microsoft® C Runtime Library  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.736: [ Module ]  ( 00007FFEE9170000h + 01024000 )                                                         C:\Windows\System32\ucrtbase.dll
+10/28/2021 00:17:37.736: [File Ver]    Microsoft® C Runtime Library  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.738: [ Module ]  ( 00007FFEEA810000h + 00331776 )                                                         C:\Windows\System32\SHLWAPI.dll
+10/28/2021 00:17:37.739: [File Ver]    Shell Light-weight Utility Library  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.740: [ Module ]  ( 00007FFEEBA80000h + 03289088 )                                                         C:\Windows\System32\combase.dll
+10/28/2021 00:17:37.741: [File Ver]    Microsoft COM for Windows  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.742: [ Module ]  ( 00007FFEEAF80000h + 01196032 )                                                         C:\Windows\System32\RPCRT4.dll
+10/28/2021 00:17:37.742: [File Ver]    Remote Procedure Call Runtime  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.744: [ Module ]  ( 00007FFEE8A60000h + 00499712 )                                                         C:\Windows\System32\bcryptPrimitives.dll
+10/28/2021 00:17:37.745: [File Ver]    Windows Cryptographic Primitives Library  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.746: [ Module ]  ( 00007FFED7870000h + 00540672 )                                                         C:\Windows\SYSTEM32\WINSPOOL.DRV
+10/28/2021 00:17:37.747: [File Ver]    Windows Spooler Driver  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.748: [ Module ]  ( 00007FFEE80F0000h + 00069632 )                                                         C:\Windows\System32\kernel.appcore.dll
+10/28/2021 00:17:37.749: [File Ver]    AppModel API Host  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.751: [ Module ]  ( 00007FFEE4A20000h + 01785856 )                                                         C:\Windows\SYSTEM32\PROPSYS.dll
+10/28/2021 00:17:37.752: [File Ver]    Microsoft Property System  7.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.753: [ Module ]  ( 00007FFEEB3B0000h + 00794624 )                                                         C:\Windows\System32\OLEAUT32.dll
+10/28/2021 00:17:37.754: [File Ver]    OLEAUT32.DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.755: [ Module ]  ( 00007FFEEB930000h + 00692224 )                                                         C:\Windows\System32\shcore.dll
+10/28/2021 00:17:37.756: [File Ver]    SHCORE  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.757: [ Module ]  ( 00007FFEEBA10000h + 00372736 )                                                         C:\Windows\System32\sechost.dll
+10/28/2021 00:17:37.758: [File Ver]    Host for SCM/SDDL/LSA Lookup APIs  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.759: [ Module ]  ( 00007FFEE76F0000h + 00229376 )                                                         C:\Windows\SYSTEM32\IPHLPAPI.DLL
+10/28/2021 00:17:37.760: [File Ver]    IP Helper API  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.761: [ Module ]  ( 00007FFEE7C50000h + 00151552 )                                                         C:\Windows\SYSTEM32\bcrypt.dll
+10/28/2021 00:17:37.761: [File Ver]    Windows Cryptographic Primitives Library  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.763: [ Module ]  ( 000001CBE5270000h + 00012288 )                                                         C:\Windows\SYSTEM32\sfc.dll
+10/28/2021 00:17:37.763: [File Ver]    Windows File Protection  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.764: [ Module ]  ( 00007FFED9620000h + 00077824 )                                                         C:\Windows\SYSTEM32\sfc_os.DLL
+10/28/2021 00:17:37.765: [File Ver]    Windows File Protection  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.766: [ Module ]  ( 00007FFECEFB0000h + 00356352 )                                                         C:\Windows\SYSTEM32\AcGenral.DLL
+10/28/2021 00:17:37.767: [File Ver]    Windows Compatibility DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.768: [ Module ]  ( 00007FFEE9270000h + 01380352 )                                                         C:\Windows\System32\ole32.dll
+10/28/2021 00:17:37.768: [File Ver]    Microsoft OLE for Windows  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.769: [ Module ]  ( 00007FFEE93D0000h + 21233664 )                                                         C:\Windows\System32\SHELL32.dll
+10/28/2021 00:17:37.770: [File Ver]    Windows Shell Common Dll  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.771: [ Module ]  ( 00007FFEE9120000h + 00299008 )                                                         C:\Windows\System32\cfgmgr32.dll
+10/28/2021 00:17:37.772: [File Ver]    Configuration Manager DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.773: [ Module ]  ( 00007FFEE81B0000h + 07393280 )                                                         C:\Windows\System32\windows.storage.dll
+10/28/2021 00:17:37.774: [File Ver]    Microsoft WinRT Storage API  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.775: [ Module ]  ( 00007FFEEA960000h + 00659456 )                                                         C:\Windows\System32\advapi32.dll
+10/28/2021 00:17:37.775: [File Ver]    Advanced Windows 32 Base API  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.776: [ Module ]  ( 00007FFEE8190000h + 00126976 )                                                         C:\Windows\System32\profapi.dll
+10/28/2021 00:17:37.777: [File Ver]    User Profile Basic API  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.778: [ Module ]  ( 00007FFEE8120000h + 00311296 )                                                         C:\Windows\System32\powrprof.dll
+10/28/2021 00:17:37.779: [File Ver]    Power Profile Helper DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.780: [ Module ]  ( 00007FFEE8110000h + 00040960 )                                                         C:\Windows\System32\FLTLIB.DLL
+10/28/2021 00:17:37.780: [File Ver]    Filter Library  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.781: [ Module ]  ( 00007FFEE8020000h + 00196608 )                                                         C:\Windows\SYSTEM32\SspiCli.dll
+10/28/2021 00:17:37.782: [File Ver]    Security Support Provider Interface  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.783: [ Module ]  ( 00007FFEE7FF0000h + 00163840 )                                                         C:\Windows\SYSTEM32\USERENV.dll
+10/28/2021 00:17:37.784: [File Ver]    Userenv  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.785: [ Module ]  ( 00007FFED8BD0000h + 00106496 )                                                         C:\Windows\SYSTEM32\MPR.dll
+10/28/2021 00:17:37.785: [File Ver]    Multiple Provider Router DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.786: [ Module ]  ( 00007FFEEB700000h + 00184320 )                                                         C:\Windows\System32\IMM32.DLL
+10/28/2021 00:17:37.787: [File Ver]    Multi-User Windows IMM32 API Client DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.788: [ Module ]  ( 00007FFEEAAB0000h + 00118784 )                                                         C:\Windows\System32\imagehlp.dll
+10/28/2021 00:17:37.789: [File Ver]    Windows NT Image Helper  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.790: [ Module ]  ( 00007FFEEAB30000h + 04501504 )                                                         C:\Windows\System32\SETUPAPI.dll
+10/28/2021 00:17:37.790: [File Ver]    Windows Setup API  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.791: [ Module ]  ( 00007FFEE6240000h + 00143360 )                                                         C:\Windows\SYSTEM32\WINMM.dll
+10/28/2021 00:17:37.792: [File Ver]    MCI API DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.794: [ Module ]  ( 00007FFECA690000h + 01097728 )                                                         F:\DBME2007\chars\Gotenks-SSJ\NieR Replicant ver.1.22474487139\steam_api64.dll
+10/28/2021 00:17:37.794: [File Ver]    Steam Client API (buildbot_winslave007@WUS)  01.0.1.40
+
+10/28/2021 00:17:37.794: [ Module ]  ( 00007FFEEB920000h + 00032768 )                                                         C:\Windows\System32\PSAPI.DLL
+10/28/2021 00:17:37.795: [File Ver]    Process Status Helper  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.796: [ Module ]  ( 00007FFEEB730000h + 00442368 )                                                         C:\Windows\System32\WS2_32.dll
+10/28/2021 00:17:37.796: [File Ver]    Windows Socket 2.0 32-Bit DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.797: [ Module ]  ( 00007FFECA430000h + 01015808 )                                                         C:\Windows\SYSTEM32\MFReadWrite.dll
+10/28/2021 00:17:37.797: [File Ver]    Media Foundation ReadWrite DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.798: [ Module ]  ( 00007FFEDAB70000h + 00028672 )                                                         C:\Windows\SYSTEM32\XINPUT9_1_0.dll
+10/28/2021 00:17:37.798: [File Ver]    XNA Common Controller  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.798: [ Module ]  ( 00007FFEB1960000h + 23244800 )                                                         F:\DBME2007\chars\Gotenks-SSJ\NieR Replicant ver.1.22474487139\DINPUT8.dll
+10/28/2021 00:17:37.799: [File Ver]    Special K Modding System  21.10.22
+
+10/28/2021 00:17:37.799: [ Module ]  ( 00007FFEE5370000h + 03190784 )                                                         C:\Windows\SYSTEM32\d3d11.dll
+10/28/2021 00:17:37.801: [File Ver]    Direct3D 11 Runtime  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.801: [ Module ]  ( 00007FFEE4F40000h + 04386816 )                                                         C:\Windows\SYSTEM32\D3DCOMPILER_47.dll
+10/28/2021 00:17:37.802: [File Ver]    Direct3D HLSL Compiler  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.802: [ Module ]  ( 00007FFEE5ED0000h + 00172032 )                                                         C:\Windows\SYSTEM32\WINMMBASE.dll
+10/28/2021 00:17:37.803: [File Ver]    Base Multimedia Extension API DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.805: [ Module ]  ( 00007FFEC0CF0000h + 04157440 )                                                         F:\DBME2007\chars\Gotenks-SSJ\NieR Replicant ver.1.22474487139\dxgi.dll
+10/28/2021 00:17:37.806: [File Ver]    crosire's ReShade post-processing injector for 64-bit  4.9.1.1003
+
+10/28/2021 00:17:37.807: [ Module ]  ( 00007FFEE7B30000h + 00094208 )                                                         C:\Windows\SYSTEM32\CRYPTSP.dll
+10/28/2021 00:17:37.807: [File Ver]    Cryptographic Service Provider API  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.809: [ Module ]  ( 00007FFED9790000h + 03469312 )                                                         C:\Windows\SYSTEM32\WININET.dll
+10/28/2021 00:17:37.809: [File Ver]    Internet Extensions for Win32  11.00.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.812: [ Module ]  ( 00007FFEE6F50000h + 00790528 )                                                         C:\Windows\SYSTEM32\tdh.dll
+10/28/2021 00:17:37.812: [File Ver]    Event Trace Helper Library  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.813: [ Module ]  ( 00007FFEDE550000h + 02527232 )                                                         C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17133.1_none_e4d992df105abfa4\COMCTL32.dll
+10/28/2021 00:17:37.814: [File Ver]    User Experience Controls Library  6.10 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.817: [ Module ]  ( 00007FFECEB30000h + 00319488 )                                                         C:\Windows\SYSTEM32\CONCRT140.dll
+10/28/2021 00:17:37.817: [File Ver]    Microsoft® Concurrency Runtime Library  14.29.30037.0 built by: vcwrkspc
+
+10/28/2021 00:17:37.818: [ Module ]  ( 00007FFED02A0000h + 00049152 )                                                         C:\Windows\SYSTEM32\Secur32.dll
+10/28/2021 00:17:37.819: [File Ver]    Security Support Provider Interface  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.821: [ Module ]  ( 00007FFEE3460000h + 00040960 )                                                         C:\Windows\SYSTEM32\VERSION.dll
+10/28/2021 00:17:37.822: [File Ver]    Version Checking and File Installation Libraries  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.822: [ Module ]  ( 00007FFED9750000h + 00049152 )                                                         C:\Windows\SYSTEM32\VCRUNTIME140_1.dll
+10/28/2021 00:17:37.823: [File Ver]    Microsoft® C Runtime Library  14.29.30037.0 built by: vcwrkspc
+
+10/28/2021 00:17:37.824: [ Module ]  ( 00007FFED6AA0000h + 00110592 )                                                         C:\Windows\SYSTEM32\VCRUNTIME140.dll
+10/28/2021 00:17:37.825: [File Ver]    Microsoft® C Runtime Library  14.29.30037.0 built by: vcwrkspc
+
+10/28/2021 00:17:37.825: [ Module ]  ( 00007FFEE6E40000h + 00323584 )                                                         C:\Windows\SYSTEM32\mintdh.dll
+10/28/2021 00:17:37.826: [File Ver]    Event Trace Helper Library  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.827: [ Module ]  ( 00007FFECB040000h + 00577536 )                                                         C:\Windows\SYSTEM32\MSVCP140.dll
+10/28/2021 00:17:37.828: [File Ver]    Microsoft® C Runtime Library  14.29.30037.0 built by: vcwrkspc
+
+10/28/2021 00:17:37.829: [ Module ]  ( 00007FFECA300000h + 00274432 )                                                         C:\Windows\system32\dinput8.dll
+10/28/2021 00:17:37.829: [File Ver]    Microsoft DirectInput  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.831: [ Module ]  ( 00007FFEC1330000h + 01871872 )                                                         C:\Users\*********\Documents\My Mods\SpecialK\Drivers\Dbghelp\dbghelp_sk64.dll
+10/28/2021 00:17:37.831: [File Ver]    Windows Image Helper  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.833: [ Module ]  ( 00007FFEDADE0000h + 07442432 )                                                         C:\Windows\SYSTEM32\nvapi64.dll
+10/28/2021 00:17:37.834: [File Ver]    NVIDIA NVAPI Library, Version 472.12   30.0.14.7212
+
+================================================================== (End Preloads) ==================================================================
+
+10/28/2021 00:17:37.838: [ Module ]  ( 00007FFED7DB0000h + 00495616 )                                                         C:\Windows\SYSTEM32\inputhost.dll
+
+10/28/2021 00:17:37.838: [ Module ]  ( 00007FFEE5DF0000h + 00892928 )                                                         C:\Windows\SYSTEM32\CoreMessaging.dll
+10/28/2021 00:17:37.839: [File Ver]    Microsoft CoreMessaging Dll  10.0.17133.1
+
+10/28/2021 00:17:37.841: [ Module ]  ( 00007FFEE3CD0000h + 01363968 )                                                         C:\Windows\SYSTEM32\wintypes.dll
+10/28/2021 00:17:37.842: [File Ver]    Windows Base Types DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.843: [ Module ]  ( 00007FFEE3860000h + 03268608 )                                                         C:\Windows\SYSTEM32\CoreUIComponents.dll
+10/28/2021 00:17:37.844: [File Ver]    Microsoft Core UI Components Dll  10.0.17133.1
+
+10/28/2021 00:17:37.845: [ Module ]  ( 00007FFEE71C0000h + 00200704 )                                                         C:\Windows\SYSTEM32\ntmarta.dll
+10/28/2021 00:17:37.846: [File Ver]    Windows NT MARTA provider  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.847: [ Module ]  ( 00007FFEE6610000h + 00622592 )                                                         C:\Windows\system32\uxtheme.dll
+10/28/2021 00:17:37.848: [File Ver]    Microsoft UxTheme Library  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.849: [ Module ]  ( 00007FFEEB7A0000h + 01527808 )                                                         C:\Windows\System32\MSCTF.dll
+10/28/2021 00:17:37.849: [File Ver]    MSCTF Server DLL  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.850: [ Module ]  ( 00007FFEE6860000h + 00167936 )                                                         C:\Windows\system32\dwmapi.dll
+10/28/2021 00:17:37.851: [File Ver]    Microsoft Desktop Window Manager API  10.0.17133.1 (WinBuild.160101.0800)
+
+10/28/2021 00:17:37.852: [ Module ]  ( 00007FFED7D10000h + 00622592 )                                                         C:\Windows\System32\TextInputFramework.dll
+10/28/2021 00:17:37.853: [File Ver]    "TextInputFramework.DYNLINK"  10.0.17133.1 (WinBuild.160101.0800)
+
+================================================================== (List Unloads) ==================================================================
+10/28/2021 00:17:37.854: [00] Unloaded '        resourcepolicyclient.dll' [ (0x00007FFEE6970000) : (0x00007FFEE6994000) ]
+10/28/2021 00:17:37.855: [00]  * Ver.:  Resource Policy Client  10.0.17133.1 (WinBuild.160101.0800)

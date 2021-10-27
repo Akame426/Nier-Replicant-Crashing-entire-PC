@@ -1,0 +1,529 @@
+17:17:37:507 [04416] | INFO  | Initializing crosire's ReShade version '4.9.1.1003' (64-bit) built on '2021-01-09 21:12:36' loaded from "F:\DBME2007\chars\Gotenks-SSJ\NieR Replicant ver.1.22474487139\dxgi.dll" into "F:\DBME2007\chars\Gotenks-SSJ\NieR Replicant ver.1.22474487139\NieR Replicant ver.1.22474487139.exe" ...
+17:17:37:520 [04416] | INFO  | Registering hooks for "user32.dll" ...
+17:17:37:521 [04416] | INFO  | > Libraries loaded.
+17:17:37:522 [04416] | INFO  | > Found 14 match(es). Installing ...
+17:17:37:535 [04416] | INFO  | Registering hooks for "ws2_32.dll" ...
+17:17:37:536 [04416] | INFO  | > Libraries loaded.
+17:17:37:538 [04416] | INFO  | > Found 8 match(es). Installing ...
+17:17:37:550 [04416] | INFO  | Registering hooks for "C:\Windows\system32\d2d1.dll" ...
+17:17:37:551 [04416] | INFO  | > Delayed.
+17:17:37:551 [04416] | INFO  | Registering hooks for "C:\Windows\system32\d3d9.dll" ...
+17:17:37:551 [04416] | INFO  | > Delayed.
+17:17:37:552 [04416] | INFO  | Registering hooks for "C:\Windows\system32\d3d10.dll" ...
+17:17:37:552 [04416] | INFO  | > Delayed.
+17:17:37:552 [04416] | INFO  | Registering hooks for "C:\Windows\system32\d3d10_1.dll" ...
+17:17:37:553 [04416] | INFO  | > Delayed.
+17:17:37:553 [04416] | INFO  | Registering hooks for "C:\Windows\system32\d3d11.dll" ...
+17:17:37:553 [04416] | INFO  | > Libraries loaded.
+17:17:37:554 [04416] | INFO  | > Found 2 match(es). Installing ...
+17:17:37:566 [04416] | INFO  | Registering hooks for "C:\Windows\system32\d3d12.dll" ...
+17:17:37:566 [04416] | INFO  | > Delayed.
+17:17:37:567 [04416] | INFO  | Registering hooks for "C:\Windows\system32\dxgi.dll" ...
+17:17:37:567 [04416] | INFO  | > Delayed until first call to an exported function.
+17:17:37:567 [04416] | INFO  | Registering hooks for "C:\Windows\system32\opengl32.dll" ...
+17:17:37:567 [04416] | INFO  | > Delayed.
+17:17:37:568 [04416] | INFO  | Initialized.
+17:17:37:587 [04416] | INFO  | Redirecting RegisterClassExW(lpWndClassEx = 00000008664FF350 { WindowClass1 }) ...
+17:17:37:587 [04416] | INFO  | > Adding 'CS_OWNDC' window class style flag to 'WindowClass1'.
+17:17:37:591 [01652] | INFO  | Redirecting RegisterClassExW(lpWndClassEx = 0000000866CFF710 { SK_HID_Listener }) ...
+17:17:37:591 [01652] | INFO  | > Adding 'CS_OWNDC' window class style flag to 'SK_HID_Listener'.
+17:17:37:599 [01068] | INFO  | Redirecting CreateDXGIFactory2(Flags = 0, riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 0000000866DFF6E0) ...
+17:17:37:601 [01068] | INFO  | Installing export hooks for "C:\Windows\system32\dxgi.dll" ...
+17:17:37:602 [01068] | INFO  | > Found 5 match(es). Installing ...
+17:17:37:602 [06616] | INFO  | Redirecting D3D11CreateDeviceAndSwapChain(pAdapter = 0000000000000000, DriverType = 1, Software = 0000000000000000, Flags = 0, pFeatureLevels = 00000008671FF990, FeatureLevels = 4, SDKVersion = 7, pSwapChainDesc = 00000008671FF930, ppSwapChain = 00000008671FFA00, ppDevice = 00000008671FF878, pFeatureLevel = 00000008671FF9F8, ppImmediateContext = 00000008671FF888) ...
+17:17:37:603 [06616] | INFO  | Redirecting CreateDXGIFactory2(Flags = 0x80000000, riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 00000008671FEFC8) ...
+17:17:37:690 [01068] | INFO  | Redirecting CreateDXGIFactory2(Flags = 0, riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 0000000866DFF680) ...
+17:17:37:691 [01068] | WARN  | Ignoring LoadLibrary("msasn1.dll") call to avoid possible deadlock.
+17:17:37:691 [01068] | WARN  | Ignoring LoadLibrary("cryptnet.dll") call to avoid possible deadlock.
+17:17:37:691 [01068] | WARN  | Ignoring LoadLibrary("cryptbase.dll") call to avoid possible deadlock.
+17:17:37:691 [01068] | WARN  | Ignoring LoadLibrary("nvapi64.dll") call to avoid possible deadlock.
+17:17:37:692 [01068] | WARN  | Ignoring LoadLibrary("msasn1.dll") call to avoid possible deadlock.
+17:17:37:692 [06616] | WARN  | Ignoring LoadLibrary("kernel32") call to avoid possible deadlock.
+17:17:37:697 [00912] | WARN  | Ignoring LoadLibrary("api-ms-win-appmodel-runtime-l1-1-2") call to avoid possible deadlock.
+17:17:37:699 [06616] | WARN  | Ignoring LoadLibrary("msasn1.dll") call to avoid possible deadlock.
+17:17:37:699 [06616] | WARN  | Ignoring LoadLibrary("cryptnet.dll") call to avoid possible deadlock.
+17:17:37:699 [06616] | WARN  | Ignoring LoadLibrary("drvstore.dll") call to avoid possible deadlock.
+17:17:37:699 [06616] | WARN  | Ignoring LoadLibrary("devobj.dll") call to avoid possible deadlock.
+17:17:37:701 [01068] | WARN  | Ignoring LoadLibrary("gdi32.dll") call to avoid possible deadlock.
+17:17:37:702 [01068] | WARN  | Ignoring LoadLibrary("setupapi.dll") call to avoid possible deadlock.
+17:17:37:702 [01068] | WARN  | Ignoring LoadLibrary("User32.dll") call to avoid possible deadlock.
+17:17:37:710 [04416] | INFO  | Redirecting CreateDXGIFactory(riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 000001CBFB1FDA78) ...
+17:17:37:711 [04416] | INFO  | > Passing on to CreateDXGIFactory1:
+17:17:37:718 [04416] | INFO  | Redirecting CreateDXGIFactory1(riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 00000008664FEBB0) ...
+17:17:37:739 [06616] | INFO  | > Using feature level 0xb000.
+17:17:37:739 [06616] | INFO  | > Calling IDXGIFactory::CreateSwapChain:
+17:17:37:742 [06616] | INFO  | Redirecting IDXGIFactory::CreateSwapChain(this = 000001CBFB065240, pDevice = 000001CBFB48E490, pDesc = 00000008671FF930, ppSwapChain = 00000008671FFA00) ...
+17:17:37:742 [06616] | INFO  | > Dumping swap chain description:
+17:17:37:743 [06616] | INFO  |   +-----------------------------------------+-----------------------------------------+
+17:17:37:744 [06616] | INFO  |   | Parameter                               | Value                                   |
+17:17:37:745 [06616] | INFO  |   +-----------------------------------------+-----------------------------------------+
+17:17:37:745 [06616] | INFO  |   | Width                                   | 2                                       |
+17:17:37:746 [06616] | INFO  |   | Height                                  | 2                                       |
+17:17:37:747 [06616] | INFO  |   | RefreshRate                             | 0                   0                   |
+17:17:37:748 [06616] | INFO  |   | Format                                  | DXGI_FORMAT_B8G8R8A8_UNORM              |
+17:17:37:748 [06616] | INFO  |   | ScanlineOrdering                        | 0                                       |
+17:17:37:749 [06616] | INFO  |   | Scaling                                 | 0                                       |
+17:17:37:750 [06616] | INFO  |   | SampleCount                             | 1                                       |
+17:17:37:750 [06616] | INFO  |   | SampleQuality                           | 0                                       |
+17:17:37:751 [06616] | INFO  |   | BufferUsage                             | 0x60                                    |
+17:17:37:752 [06616] | INFO  |   | BufferCount                             | 1                                       |
+17:17:37:752 [06616] | INFO  |   | OutputWindow                            | 00000000004A0400                        |
+17:17:37:753 [06616] | INFO  |   | Windowed                                | TRUE                                    |
+17:17:37:753 [06616] | INFO  |   | SwapEffect                              | 0                                       |
+17:17:37:754 [06616] | INFO  |   | Flags                                   | 0                                       |
+17:17:37:754 [06616] | INFO  |   +-----------------------------------------+-----------------------------------------+
+17:17:37:800 [06616] | INFO  | Running on NVIDIA GeForce GT 1030
+17:17:37:803 [06616] | INFO  | Recreated runtime environment on runtime 000001CBFB6628A0.
+17:17:37:812 [06616] | INFO  | Destroyed runtime environment on runtime 000001CBFB6628A0.
+17:17:37:813 [04416] | INFO  | Redirecting D3D11CreateDeviceAndSwapChain(pAdapter = 000001CBFB5012C0, DriverType = 0, Software = 0000000000000000, Flags = 0x20, pFeatureLevels = 00000008664FED10, FeatureLevels = 7, SDKVersion = 7, pSwapChainDesc = 000001CBFB1BF1D0, ppSwapChain = 0000000000000000, ppDevice = 00000008664FE5D8, pFeatureLevel = 00000008664FE5D0, ppImmediateContext = 000001CBFB1FDA98) ...
+17:17:37:839 [04416] | INFO  | > Using feature level 0xb100.
+17:17:37:839 [04416] | INFO  | > Calling IDXGIFactory::CreateSwapChain:
+17:17:37:840 [04416] | INFO  | Redirecting ID3D11Device::CreateDeferredContext(this = 000001CBFB422A10, ContextFlags = 0, ppDeferredContext = 000001CBFB4DCEF8) ...
+17:17:37:882 [04416] | INFO  | Redirecting IDXGIFactory2::CreateSwapChainForHwnd(this = 000001CBFB4DF570, pDevice = 000001CBFB422A10, hWnd = 00000000000B0272, pDesc = 00000008664FE9E0, pFullscreenDesc = 00000008664FE9B0, pRestrictToOutput = 0000000000000000, ppSwapChain = 00000008664FE8E0) ...
+17:17:37:882 [04416] | INFO  | > Dumping swap chain description:
+17:17:37:882 [04416] | INFO  |   +-----------------------------------------+-----------------------------------------+
+17:17:37:883 [04416] | INFO  |   | Parameter                               | Value                                   |
+17:17:37:883 [04416] | INFO  |   +-----------------------------------------+-----------------------------------------+
+17:17:37:883 [04416] | INFO  |   | Width                                   | 1280                                    |
+17:17:37:883 [04416] | INFO  |   | Height                                  | 720                                     |
+17:17:37:883 [04416] | INFO  |   | RefreshRate                             | 75                  1                   |
+17:17:37:883 [04416] | INFO  |   | Format                                  | DXGI_FORMAT_R10G10B10A2_UNORM           |
+17:17:37:884 [04416] | INFO  |   | Stereo                                  | FALSE                                   |
+17:17:37:884 [04416] | INFO  |   | ScanlineOrdering                        | 0                                       |
+17:17:37:884 [04416] | INFO  |   | Scaling                                 | 0                                       |
+17:17:37:884 [04416] | INFO  |   | SampleCount                             | 1                                       |
+17:17:37:884 [04416] | INFO  |   | SampleQuality                           | 0                                       |
+17:17:37:884 [04416] | INFO  |   | BufferUsage                             | 0x20                                    |
+17:17:37:884 [04416] | INFO  |   | BufferCount                             | 4                                       |
+17:17:37:885 [04416] | INFO  |   | Windowed                                | TRUE                                    |
+17:17:37:885 [04416] | INFO  |   | SwapEffect                              | 4                                       |
+17:17:37:885 [04416] | INFO  |   | AlphaMode                               | 3                                       |
+17:17:37:886 [04416] | INFO  |   | Flags                                   | 0x802                                   |
+17:17:37:886 [04416] | INFO  |   +-----------------------------------------+-----------------------------------------+
+17:17:37:889 [04416] | INFO  | Running on NVIDIA GeForce GT 1030
+17:17:37:891 [04416] | INFO  | Recreated runtime environment on runtime 000001CBFB491420.
+17:17:40:414 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Emphasize.fx".
+17:17:40:416 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\3DFX.fx".
+17:17:40:419 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Nostalgia.fx".
+17:17:40:425 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AdaptiveFog.fx".
+17:17:40:426 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\EyeAdaption.fx".
+17:17:40:430 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Oilify.fx".
+17:17:40:440 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FakeHDR.fx".
+17:17:40:445 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AdaptiveSharpen.fx".
+17:17:40:450 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Overlay.fx".
+17:17:40:454 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FakeMotionBlur.fx".
+17:17:40:458 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AdaptiveTonemapper.fx".
+17:17:40:464 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\PerfectPerspective.fx".
+17:17:40:469 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FilmGrain.fx".
+17:17:40:475 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AmbientLight.fx".
+17:17:40:479 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FilmGrain2.fx".
+17:17:40:480 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\PiecewiseFilmicTonemap.fx".
+17:17:40:488 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ArcaneBloom.fx".
+17:17:40:489 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FilmicAnamorphSharpen.fx".
+17:17:40:493 [06944] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Pong.fx" with warnings:
+C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FXShaders/Digits.fxh(827, 31): warning X3206: implicit truncation of vector type
+C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Pong.fx(244, 38): warning X3206: implicit truncation of vector type
+
+17:17:40:498 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ArtisticVignette.fx".
+17:17:40:499 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FilmicPass.fx".
+17:17:40:504 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\PPFX_Bloom.fx".
+17:17:40:510 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ASCII.fx".
+17:17:40:510 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FineSharp.fx".
+17:17:40:515 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\PPFX_Godrays.fx".
+17:17:40:519 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AspectRatio.fx".
+17:17:40:519 [05600] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Flashlight.fx" with warnings:
+warning: V__sColor: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:17:40:526 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\PPFX_SSDO.fx".
+17:17:40:528 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FlexibleCA.fx".
+17:17:40:530 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AspectRatioSuite.fx".
+17:17:40:536 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Prism.fx".
+17:17:40:539 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FocalDOF.fx".
+17:17:40:541 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\BilateralComic.fx".
+17:17:40:550 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FramerateLimiter.fx".
+17:17:40:551 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\qUINT_lightroom.fx".
+17:17:40:554 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Bloom.fx".
+17:17:40:563 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ReflectiveBumpMapping.fx".
+17:17:40:563 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FXAA.fx".
+17:17:40:563 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Border.fx".
+17:17:40:573 [06944] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\RetroFog.fx" with warnings:
+warning: V__sRetroFog_BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:17:40:573 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\BulgePinch.fx".
+17:17:40:574 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\GaussianBlur.fx".
+17:17:40:584 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Cartoon.fx".
+17:17:40:585 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\GaussianBlurCS.fx".
+17:17:40:593 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CAS.fx".
+17:17:40:594 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Glitch.fx".
+17:17:40:603 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Checkerboard.fx".
+17:17:40:603 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\GrainSpread.fx".
+17:17:40:613 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ReVeil.fx".
+17:17:40:613 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\HexLensFlare.fx".
+17:17:40:616 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Chromakey.fx".
+17:17:40:622 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\SCurve.fx".
+17:17:40:623 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\HighPassSharpen.fx".
+17:17:40:623 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ChromaticAberration.fx".
+17:17:40:630 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Sepia.fx".
+17:17:40:632 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\HQ4X.fx".
+17:17:40:641 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\HSLShift.fx".
+17:17:40:641 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CinematicDOF.fx".
+17:17:40:642 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\SharpContrast.fx".
+17:17:40:650 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Layer.fx".
+17:17:40:651 [06944] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Sketch.fx" with warnings:
+warning: V__SRGBBackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:17:40:655 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Clarity.fx".
+17:17:40:660 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Levels.fx".
+17:17:40:667 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\SMAA.fx".
+17:17:40:671 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LevelsPlus.fx".
+17:17:40:671 [03428] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ColorLab.fx" with warnings:
+warning: V__FXShaders__BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:17:40:676 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Splitscreen.fx".
+17:17:40:680 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ColorMatrix.fx".
+17:17:40:680 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LiftGammaGain.fx".
+17:17:40:685 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\StageDepth.fx".
+17:17:40:690 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Colourfulness.fx".
+17:17:40:690 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LightDoF.fx".
+17:17:40:699 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\SurfaceBlur.fx".
+17:17:40:704 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ContrastStretch.fx".
+17:17:40:706 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LiquidLens.fx".
+17:17:40:709 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Swirl.fx".
+17:17:40:716 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CRT.fx".
+17:17:40:718 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Technicolor.fx".
+17:17:40:721 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LocalContrastCS.fx".
+17:17:40:726 [03428] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CRT_Lottes.fx" with warnings:
+warning: V__sBackBuffer_Scale: texture does not support sRGB sampling (back buffer format is not RGBA8)warning: V__sBackBuffer_CRT: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:17:40:726 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Technicolor2.fx".
+17:17:40:730 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LumaSharpen.fx".
+17:17:40:736 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\TiltShift.fx".
+17:17:40:737 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CRT_Yee64.fx".
+17:17:40:739 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LUT.fx".
+17:17:40:745 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\TinyPlanet.fx".
+17:17:40:746 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CRT_Yeetron.fx".
+17:17:40:750 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MagicBloom.fx".
+17:17:40:755 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Tonemap.fx".
+17:17:40:756 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Cursor.fx".
+17:17:40:765 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MagicHDR.fx".
+17:17:40:765 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Curves.fx".
+17:17:40:766 [06944] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\TrackingRays.fx" with warnings:
+warning: V__FXShaders__BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:17:40:775 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Daltonize.fx".
+17:17:40:775 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\UIDetect.fx".
+17:17:40:775 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MBMB.fx".
+17:17:40:785 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\UIMask.fx".
+17:17:40:785 [05600] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MinimalColorGrading.fx" with warnings:
+warning: V__BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:17:40:786 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Deband.fx".
+17:17:40:794 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Monochrome.fx".
+17:17:40:794 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\UIMaskCreator.fx".
+17:17:40:804 [05600] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MultiFX.fx" with warnings:
+warning: V__sMultiFX_BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:17:40:809 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\UnrealLens.fx".
+17:17:40:813 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MultiLUT.fx".
+17:17:40:814 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Dehaze.fx".
+17:17:40:820 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Unsharp.fx".
+17:17:40:823 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Denoise.fx".
+17:17:40:827 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MXAO.fx".
+17:17:40:829 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Vibrance.fx".
+17:17:40:838 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Vignette.fx".
+17:17:40:840 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Depth3D.fx".
+17:17:40:844 [05600] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\NeoBloom.fx" with warnings:
+warning: V__FXShaders__BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:17:40:849 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\VirtualResolution.fx".
+17:17:40:850 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\DepthAlpha.fx".
+17:17:40:852 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\NightVision.fx".
+17:17:40:859 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\DepthHaze.fx".
+17:17:40:860 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\VRS_Map.fx".
+17:17:40:863 [05600] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\NormalMap.fx".
+17:17:40:869 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\DisplayDepth.fx".
+17:17:40:870 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Wave.fx".
+17:17:40:879 [03428] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Dither.fx" with warnings:
+warning: V__sRetroFog_BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:17:40:880 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\WhitepointFixer.fx".
+17:17:40:889 [06944] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ZigZag.fx".
+17:17:40:897 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\DOF.fx".
+17:17:40:908 [03428] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\DPX.fx".
+17:17:42:555 [02968] | INFO  | Loading image files for textures ...
+17:18:44:018 [02968] | INFO  | Redirecting IDXGISwapChain::SetFullscreenState(this = 000001CBFB6AA890, Fullscreen = TRUE, pTarget = 0000000000000000) ...
+17:18:44:755 [02968] | INFO  | Redirecting IDXGISwapChain::ResizeBuffers(this = 000001CBFB6AA890, BufferCount = 4, Width = 1280, Height = 720, NewFormat = 24, SwapChainFlags = 0x802) ...
+17:18:44:757 [02968] | INFO  | Destroyed runtime environment on runtime 000001CBFB491420.
+17:18:44:766 [02968] | INFO  | Recreated runtime environment on runtime 000001CBFB491420.
+17:18:44:847 [02968] | INFO  | Redirecting CreateDXGIFactory1(riid = {770AAE78-F26F-4DBA-A829-253C83D1B387}, ppFactory = 00007FFEB206C918) ...
+17:18:44:961 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Emphasize.fx".
+17:18:44:964 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\EyeAdaption.fx".
+17:18:44:966 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FakeHDR.fx".
+17:18:44:967 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Nostalgia.fx".
+17:18:44:968 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FakeMotionBlur.fx".
+17:18:44:970 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\3DFX.fx".
+17:18:44:971 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Oilify.fx".
+17:18:44:971 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FilmGrain.fx".
+17:18:44:972 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AdaptiveFog.fx".
+17:18:44:972 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Overlay.fx".
+17:18:44:974 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FilmGrain2.fx".
+17:18:44:975 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\PerfectPerspective.fx".
+17:18:44:977 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FilmicAnamorphSharpen.fx".
+17:18:44:979 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FilmicPass.fx".
+17:18:44:979 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AdaptiveSharpen.fx".
+17:18:44:980 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\PiecewiseFilmicTonemap.fx".
+17:18:44:982 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AdaptiveTonemapper.fx".
+17:18:44:983 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FineSharp.fx".
+17:18:44:985 [05704] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Flashlight.fx" with warnings:
+warning: V__sColor: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:18:44:985 [06528] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Pong.fx" with warnings:
+C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FXShaders/Digits.fxh(827, 31): warning X3206: implicit truncation of vector type
+C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Pong.fx(244, 38): warning X3206: implicit truncation of vector type
+
+17:18:44:987 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FlexibleCA.fx".
+17:18:44:988 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AmbientLight.fx".
+17:18:44:989 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\PPFX_Bloom.fx".
+17:18:44:990 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FocalDOF.fx".
+17:18:44:991 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FramerateLimiter.fx".
+17:18:44:991 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\PPFX_Godrays.fx".
+17:18:44:993 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ArcaneBloom.fx".
+17:18:44:995 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ArtisticVignette.fx".
+17:18:44:995 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\PPFX_SSDO.fx".
+17:18:44:999 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Prism.fx".
+17:18:44:999 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ASCII.fx".
+17:18:44:996 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FXAA.fx".
+17:18:45:007 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\qUINT_lightroom.fx".
+17:18:45:009 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AspectRatio.fx".
+17:18:45:011 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\GaussianBlur.fx".
+17:18:45:011 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AspectRatioSuite.fx".
+17:18:45:012 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ReflectiveBumpMapping.fx".
+17:18:45:014 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\GaussianBlurCS.fx".
+17:18:45:014 [06528] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\RetroFog.fx" with warnings:
+warning: V__sRetroFog_BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:18:45:015 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\BilateralComic.fx".
+17:18:45:017 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Glitch.fx".
+17:18:45:019 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\GrainSpread.fx".
+17:18:45:021 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\HexLensFlare.fx".
+17:18:45:021 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Bloom.fx".
+17:18:45:023 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Border.fx".
+17:18:45:024 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\HighPassSharpen.fx".
+17:18:45:025 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\BulgePinch.fx".
+17:18:45:026 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Cartoon.fx".
+17:18:45:027 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\HQ4X.fx".
+17:18:45:030 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CAS.fx".
+17:18:45:031 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\HSLShift.fx".
+17:18:45:032 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Checkerboard.fx".
+17:18:45:032 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Layer.fx".
+17:18:45:034 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Levels.fx".
+17:18:45:034 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Chromakey.fx".
+17:18:45:036 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LevelsPlus.fx".
+17:18:45:037 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ChromaticAberration.fx".
+17:18:45:038 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LiftGammaGain.fx".
+17:18:45:042 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LightDoF.fx".
+17:18:45:048 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ReVeil.fx".
+17:18:45:049 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CinematicDOF.fx".
+17:18:45:050 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\SCurve.fx".
+17:18:45:051 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LiquidLens.fx".
+17:18:45:052 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Sepia.fx".
+17:18:45:056 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Clarity.fx".
+17:18:45:056 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\SharpContrast.fx".
+17:18:45:058 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LocalContrastCS.fx".
+17:18:45:059 [04388] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ColorLab.fx" with warnings:
+warning: V__FXShaders__BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:18:45:059 [06528] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Sketch.fx" with warnings:
+warning: V__SRGBBackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:18:45:060 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LumaSharpen.fx".
+17:18:45:060 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ColorMatrix.fx".
+17:18:45:062 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LUT.fx".
+17:18:45:063 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Colourfulness.fx".
+17:18:45:065 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MagicBloom.fx".
+17:18:45:067 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ContrastStretch.fx".
+17:18:45:069 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\SMAA.fx".
+17:18:45:071 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CRT.fx".
+17:18:45:071 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Splitscreen.fx".
+17:18:45:073 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MagicHDR.fx".
+17:18:45:073 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\StageDepth.fx".
+17:18:45:074 [04388] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CRT_Lottes.fx" with warnings:
+warning: V__sBackBuffer_Scale: texture does not support sRGB sampling (back buffer format is not RGBA8)warning: V__sBackBuffer_CRT: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:18:45:075 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MBMB.fx".
+17:18:45:077 [05704] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MinimalColorGrading.fx" with warnings:
+warning: V__BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:18:45:077 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\SurfaceBlur.fx".
+17:18:45:078 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CRT_Yee64.fx".
+17:18:45:079 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Monochrome.fx".
+17:18:45:080 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Swirl.fx".
+17:18:45:080 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CRT_Yeetron.fx".
+17:18:45:081 [05704] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MultiFX.fx" with warnings:
+warning: V__sMultiFX_BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:18:45:082 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Technicolor.fx".
+17:18:45:083 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Cursor.fx".
+17:18:45:083 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MultiLUT.fx".
+17:18:45:083 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Technicolor2.fx".
+17:18:45:085 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Curves.fx".
+17:18:45:086 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\TiltShift.fx".
+17:18:45:087 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Daltonize.fx".
+17:18:45:088 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\TinyPlanet.fx".
+17:18:45:089 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MXAO.fx".
+17:18:45:090 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Deband.fx".
+17:18:45:089 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Tonemap.fx".
+17:18:45:095 [06528] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\TrackingRays.fx" with warnings:
+warning: V__FXShaders__BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:18:45:097 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\UIDetect.fx".
+17:18:45:099 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\UIMask.fx".
+17:18:45:100 [05704] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\NeoBloom.fx" with warnings:
+warning: V__FXShaders__BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:18:45:101 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\UIMaskCreator.fx".
+17:18:45:101 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\NightVision.fx".
+17:18:45:104 [05704] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\NormalMap.fx".
+17:18:45:109 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\UnrealLens.fx".
+17:18:45:111 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Dehaze.fx".
+17:18:45:113 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Unsharp.fx".
+17:18:45:114 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Denoise.fx".
+17:18:45:115 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Vibrance.fx".
+17:18:45:117 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Vignette.fx".
+17:18:45:119 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\VirtualResolution.fx".
+17:18:45:124 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Depth3D.fx".
+17:18:45:124 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\VRS_Map.fx".
+17:18:45:127 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Wave.fx".
+17:18:45:127 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\DepthAlpha.fx".
+17:18:45:130 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\DepthHaze.fx".
+17:18:45:130 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\WhitepointFixer.fx".
+17:18:45:132 [06528] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ZigZag.fx".
+17:18:45:132 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\DisplayDepth.fx".
+17:18:45:134 [04388] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Dither.fx" with warnings:
+warning: V__sRetroFog_BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:18:45:145 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\DOF.fx".
+17:18:45:147 [04388] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\DPX.fx".
+17:18:45:330 [02968] | INFO  | Loading image files for textures ...
+17:19:18:046 [02968] | INFO  | Redirecting IDXGISwapChain::ResizeBuffers(this = 000001CBFB6AA890, BufferCount = 4, Width = 1280, Height = 720, NewFormat = 24, SwapChainFlags = 0x802) ...
+17:19:18:049 [02968] | INFO  | Destroyed runtime environment on runtime 000001CBFB491420.
+17:19:18:057 [02968] | INFO  | Recreated runtime environment on runtime 000001CBFB491420.
+17:19:18:201 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Emphasize.fx".
+17:19:18:202 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\3DFX.fx".
+17:19:18:204 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AdaptiveFog.fx".
+17:19:18:204 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\EyeAdaption.fx".
+17:19:18:206 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Nostalgia.fx".
+17:19:18:206 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FakeHDR.fx".
+17:19:18:209 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FakeMotionBlur.fx".
+17:19:18:210 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Oilify.fx".
+17:19:18:210 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FilmGrain.fx".
+17:19:18:211 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AdaptiveSharpen.fx".
+17:19:18:212 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Overlay.fx".
+17:19:18:213 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AdaptiveTonemapper.fx".
+17:19:18:213 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FilmGrain2.fx".
+17:19:18:214 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\PerfectPerspective.fx".
+17:19:18:216 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FilmicAnamorphSharpen.fx".
+17:19:18:219 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\PiecewiseFilmicTonemap.fx".
+17:19:18:219 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FilmicPass.fx".
+17:19:18:220 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AmbientLight.fx".
+17:19:18:223 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FineSharp.fx".
+17:19:18:224 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ArcaneBloom.fx".
+17:19:18:224 [02316] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Pong.fx" with warnings:
+C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FXShaders/Digits.fxh(827, 31): warning X3206: implicit truncation of vector type
+C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Pong.fx(244, 38): warning X3206: implicit truncation of vector type
+
+17:19:18:225 [06096] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Flashlight.fx" with warnings:
+warning: V__sColor: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:19:18:228 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ArtisticVignette.fx".
+17:19:18:230 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FlexibleCA.fx".
+17:19:18:232 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\PPFX_Bloom.fx".
+17:19:18:234 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FocalDOF.fx".
+17:19:18:235 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ASCII.fx".
+17:19:18:237 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FramerateLimiter.fx".
+17:19:18:237 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\PPFX_Godrays.fx".
+17:19:18:237 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AspectRatio.fx".
+17:19:18:240 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\AspectRatioSuite.fx".
+17:19:18:241 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\PPFX_SSDO.fx".
+17:19:18:242 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\FXAA.fx".
+17:19:18:243 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Prism.fx".
+17:19:18:244 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\BilateralComic.fx".
+17:19:18:247 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\GaussianBlur.fx".
+17:19:18:251 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\GaussianBlurCS.fx".
+17:19:18:251 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Bloom.fx".
+17:19:18:252 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\qUINT_lightroom.fx".
+17:19:18:253 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Border.fx".
+17:19:18:253 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Glitch.fx".
+17:19:18:255 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\BulgePinch.fx".
+17:19:18:255 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\GrainSpread.fx".
+17:19:18:255 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ReflectiveBumpMapping.fx".
+17:19:18:256 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Cartoon.fx".
+17:19:18:258 [02316] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\RetroFog.fx" with warnings:
+warning: V__sRetroFog_BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:19:18:258 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\HexLensFlare.fx".
+17:19:18:258 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CAS.fx".
+17:19:18:261 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Checkerboard.fx".
+17:19:18:262 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\HighPassSharpen.fx".
+17:19:18:264 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Chromakey.fx".
+17:19:18:265 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ChromaticAberration.fx".
+17:19:18:265 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\HQ4X.fx".
+17:19:18:268 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\HSLShift.fx".
+17:19:18:269 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Layer.fx".
+17:19:18:271 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Levels.fx".
+17:19:18:273 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LevelsPlus.fx".
+17:19:18:274 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LiftGammaGain.fx".
+17:19:18:276 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CinematicDOF.fx".
+17:19:18:278 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LightDoF.fx".
+17:19:18:284 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Clarity.fx".
+17:19:18:286 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LiquidLens.fx".
+17:19:18:287 [00568] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ColorLab.fx" with warnings:
+warning: V__FXShaders__BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:19:18:288 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ColorMatrix.fx".
+17:19:18:290 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Colourfulness.fx".
+17:19:18:291 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ReVeil.fx".
+17:19:18:293 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LocalContrastCS.fx".
+17:19:18:295 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\SCurve.fx".
+17:19:18:295 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ContrastStretch.fx".
+17:19:18:296 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LumaSharpen.fx".
+17:19:18:296 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Sepia.fx".
+17:19:18:298 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\LUT.fx".
+17:19:18:299 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CRT.fx".
+17:19:18:300 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\SharpContrast.fx".
+17:19:18:301 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MagicBloom.fx".
+17:19:18:302 [00568] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CRT_Lottes.fx" with warnings:
+warning: V__sBackBuffer_Scale: texture does not support sRGB sampling (back buffer format is not RGBA8)warning: V__sBackBuffer_CRT: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:19:18:303 [02316] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Sketch.fx" with warnings:
+warning: V__SRGBBackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:19:18:305 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CRT_Yee64.fx".
+17:19:18:307 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\CRT_Yeetron.fx".
+17:19:18:308 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MagicHDR.fx".
+17:19:18:311 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Cursor.fx".
+17:19:18:312 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MBMB.fx".
+17:19:18:313 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\SMAA.fx".
+17:19:18:313 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Curves.fx".
+17:19:18:314 [06096] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MinimalColorGrading.fx" with warnings:
+warning: V__BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:19:18:315 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Splitscreen.fx".
+17:19:18:315 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Daltonize.fx".
+17:19:18:316 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Monochrome.fx".
+17:19:18:317 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\StageDepth.fx".
+17:19:18:318 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Deband.fx".
+17:19:18:318 [06096] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MultiFX.fx" with warnings:
+warning: V__sMultiFX_BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:19:18:320 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MultiLUT.fx".
+17:19:18:321 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\SurfaceBlur.fx".
+17:19:18:323 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Swirl.fx".
+17:19:18:326 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Technicolor.fx".
+17:19:18:327 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\MXAO.fx".
+17:19:18:328 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Technicolor2.fx".
+17:19:18:330 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\TiltShift.fx".
+17:19:18:332 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\TinyPlanet.fx".
+17:19:18:333 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Tonemap.fx".
+17:19:18:336 [06096] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\NeoBloom.fx" with warnings:
+warning: V__FXShaders__BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:19:18:336 [02316] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\TrackingRays.fx" with warnings:
+warning: V__FXShaders__BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:19:18:337 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\NightVision.fx".
+17:19:18:338 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\UIDetect.fx".
+17:19:18:340 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\UIMask.fx".
+17:19:18:340 [06096] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\NormalMap.fx".
+17:19:18:341 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Dehaze.fx".
+17:19:18:343 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\UIMaskCreator.fx".
+17:19:18:344 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Denoise.fx".
+17:19:18:349 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\UnrealLens.fx".
+17:19:18:353 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Unsharp.fx".
+17:19:18:353 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Depth3D.fx".
+17:19:18:354 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Vibrance.fx".
+17:19:18:356 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\DepthAlpha.fx".
+17:19:18:357 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Vignette.fx".
+17:19:18:360 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\DepthHaze.fx".
+17:19:18:360 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\VirtualResolution.fx".
+17:19:18:362 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\DisplayDepth.fx".
+17:19:18:364 [00568] | WARN  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Dither.fx" with warnings:
+warning: V__sRetroFog_BackBuffer: texture does not support sRGB sampling (back buffer format is not RGBA8)
+17:19:18:364 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\VRS_Map.fx".
+17:19:18:366 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\Wave.fx".
+17:19:18:368 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\WhitepointFixer.fx".
+17:19:18:370 [02316] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\ZigZag.fx".
+17:19:18:374 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\DOF.fx".
+17:19:18:376 [00568] | INFO  | Successfully loaded "C:\Users\ANONYMOUS\Documents\My Mods\SpecialK\PlugIns\ThirdParty\ReShade\reshade-shaders2\Shaders\DPX.fx".
+17:19:18:558 [02968] | INFO  | Loading image files for textures ...
